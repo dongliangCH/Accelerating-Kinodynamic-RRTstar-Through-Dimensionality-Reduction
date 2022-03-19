@@ -8,10 +8,12 @@ Besides the code for the proposed algorithm, Kino-RRT*, we also provide an imple
 With dimensionality reduction, Kino-RRT* achieves faster convergence. A comparison example is given below.
 
 ![4fig2000](https://user-images.githubusercontent.com/37213419/159105348-b628a774-67ca-4a69-90bd-c2de386e9233.png)
-Kino-RRT* 2000 Nodes
+
+Kino-RRT*, 2000 Nodes
 
 ![3fig2000](https://user-images.githubusercontent.com/37213419/159105337-612a55dd-d3a7-4639-8dbc-91f100c56d79.png)
-Kinodynamic RRT* 2000 Nodes
+
+Kinodynamic RRT*, 2000 Nodes
 
 Reference: 
 
