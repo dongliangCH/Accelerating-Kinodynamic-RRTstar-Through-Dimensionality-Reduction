@@ -18,3 +18,4 @@ Kinodynamic RRT*, 2000 Nodes
 Reference: 
 
 Zheng, Dongliang, and Panagiotis Tsiotras. "Accelerating Kinodynamic RRT* Through Dimensionality Reduction." 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2021.
+https://arxiv.org/pdf/2107.01259.pdf
